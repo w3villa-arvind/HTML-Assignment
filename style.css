@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+input{ border: 1px solid; }
+td:first-child{ width: 100px; }
+input[type=checkbox]{
+    height: 45px;
+    width: 45px;
+   
+}
+td{
+    padding-left: 260px;
+    font-size: 45px;
+}
+button{
+    margin: 35px 0 10px 150px;
+    font-size: 35px;
+    padding: 8px;
+}
